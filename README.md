@@ -2,7 +2,11 @@
 About Me
 Hi, I'm Ravi Tharun 👋
 
-I'm a passionate Frontend Developer with a keen interest in building user-friendly and dynamic web applications. I specialize in React.js and have experience in working with various frontend technologies like HTML, CSS, JavaScript, and Figma for UI/UX design. Currently, I am also exploring Node.js, Express.js, and MongoDB for full-stack development.
+I'm a passionate Frontend Developer with a strong focus on building user-friendly and dynamic web applications. I specialize in React.js and have hands-on experience with core frontend technologies including HTML, CSS, JavaScript, and tools like Figma for intuitive UI/UX design.
+
+Currently, I’m expanding my skill set into full-stack development, exploring Node.js, Express.js, and MongoDB to build scalable and efficient backend systems. I'm also deeply interested in AI & Machine Learning, and I'm eager to integrate intelligent features into modern web applications.
+
+I enjoy creating seamless user experiences and continuously learning new technologies to stay updated in the ever-evolving tech world..
 
 💻 I'm always working on personal projects, and I'm currently building a Project Management App to showcase on my personal website Protifilo. I love taking on challenges and improving my skills in both frontend and backend development.
 
