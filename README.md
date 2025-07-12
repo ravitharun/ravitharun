@@ -9,7 +9,7 @@
 
 ### ✨ About Me
 
-- 🎓 3rd Year CSE Student from Bangalore  
+- 🎓 Final Year CSE Student from <b>Bangalore<b>  
 - 🔭 Currently working on multiple **React + MERN** projects  
 - 🤖 Learning AI/ML for real-world applications  
 - 🎨 I enjoy crafting clean UIs & solving design-to-code challenges  
