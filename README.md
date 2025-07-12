@@ -40,6 +40,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,firebase" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,firebase,postgresql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
+</p>
 
 ---
 
