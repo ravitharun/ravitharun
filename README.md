@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi there 👋, I'm Ravi Tharun</h1>
+<h1 align="center">Hi 👋, I'm Ravi Tharun</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | AI/ML Learner</h3>
 
 <p align="center">
@@ -8,24 +7,31 @@
 
 ---
 
-### 🧑‍💻 About Me
+### ✨ About Me
 
 - 🎓 3rd Year CSE Student from Bangalore  
-- 🌱 Learning **AI/ML** and diving deep into the **MERN stack**  
-- 💼 Focused on **UI/UX Design**, full-stack projects & performance optimization  
-- 🛠️ Exploring real-world problem solving through tech  
-- 🌐 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
-- 📬 Reach me at: **tharunravi672@gmail.com**
+- 🔭 Currently working on multiple **React + MERN** projects  
+- 🤖 Learning AI/ML for real-world applications  
+- 🎨 I enjoy crafting clean UIs & solving design-to-code challenges  
+- 🌍 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
+- 📬 Email me: **tharunravi672@gmail.com**
 
 ---
 
-### 🚀 What I Do
+### 🔥 My Current Goals
 
-```txt
-💻 Frontend Development     🎯 UI/UX Design
-📊 Project Management       🤖 Exploring AI/ML
-📈 Clean & Scalable Code    ⚙️ GitHub Commits All Day
-```
+- ✅ Master full-stack development (MERN)
+- ✅ Publish blog articles on AI & web dev
+- ⏳ Contribute to open-source projects
+- 🔜 Land a frontend internship
+
+---
+
+### 💡 Did You Know?
+
+- 💡 I designed my own portfolio from scratch in React  
+- 💡 I built a full-featured project manager with budget, status, and email support  
+- 💡 I'm obsessed with minimal UI and pixel-perfect layout  
 
 ---
 
@@ -37,6 +43,17 @@
 
 ---
 
+### 🛠 Developer Tools I Use
+
+- 💻 VS Code  
+- 🌐 Chrome DevTools  
+- 🎨 Figma  
+- 🔍 Postman  
+- 🗂 Git & GitHub  
+- ⚡ Netlify & Render
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -45,45 +62,40 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitharun&layout=compact&theme=github_dark"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitharun&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ravitharun&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravitharun&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 Highlight Projects
+### 🌟 Highlight Projects
 
-- 🎯 **Protifilo Website** – [Live](https://raviprotifilo.netlify.app): A clean portfolio to showcase my work  
-- 🧠 **AI/ML Blog** – Sharing my learning journey with AI & machine learning  
-- 🎵 **React Music Player** – A stylish music player with audio features  
-- 🧑‍🎓 **College LMS** – Full MERN LMS for students & instructors  
-- 📋 **Project Manager** – Tracks progress, status, and budgets efficiently  
-- 🧳 **Job Finder App** – Resume upload + listings with React frontend
+- 🚀 [Protifilo Website](https://raviprotifilo.netlify.app) – Clean React portfolio  
+- 📚 AI Learning Blog – Beginner to advanced guide  
+- 🎧 React Music Player – Simple, stylish music interface  
+- 🧑‍🏫 College LMS – Student/Faculty login & dashboard  
+- 📊 Project Manager – Visual task & budget tracking  
+- 💼 Job Finder App – Resume upload + filtered jobs
 
 ---
 
-### 💬 Quote
+### 🧠 Favorite Quote
 
-> “Code is not just code. It’s a story you tell the computer... and other developers.”
+> "First, solve the problem. Then, write the code." — John Johnson
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=I+love+to+build+cool+web+apps!;I+am+always+learning+new+tech.;Frontend+is+my+passion!;I+design+and+develop+with+React." />
+</p>
 
 ---
 
