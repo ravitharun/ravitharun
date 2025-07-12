@@ -1,77 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ravi Tharun</h1>
+<h1 align="center">Hi there 👋, I'm Ravi Tharun</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | AI/ML Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravitharun&label=Profile%20Views&color=yellow&style=flat" alt="Profile views" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🎓 3rd Year CSE Student from Bangalore  
-- 🌱 Currently learning **AI/ML** and building full-stack projects  
-- 💼 Passionate about UI/UX, Web Development & Project Management  
-- 🛠️ Love experimenting with new tools and technologies  
+- 🌱 Learning **AI/ML** and diving deep into the **MERN stack**  
+- 💼 Focused on **UI/UX Design**, full-stack projects & performance optimization  
+- 🛠️ Exploring real-world problem solving through tech  
+- 🌐 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
 - 📬 Reach me at: **tharunravi672@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 What I Do
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-</p>
+```txt
+💻 Frontend Development     🎯 UI/UX Design
+📊 Project Management       🤖 Exploring AI/ML
+📈 Clean & Scalable Code    ⚙️ GitHub Commits All Day
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,firebase" /> </p>
 
----
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ravitharun&theme=onedark&no-frame=true&no-bg=true&margin-w=5" /> </p>
 
-### 🚀 Projects Highlights
 
-- 🖥️ **Protifilo** – A sleek portfolio to showcase my journey and skills  
-- 💼 **Job Finder App** – React job listing frontend with resume upload  
-- 📈 **Project Manager Tool** – MERN stack project tracker with progress and budget  
-- 🎵 **Music Player** – Interactive audio player built with React  
-- 🏫 **College LMS** – Role-based full-stack MERN app for student-instructor portals
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitharun&layout=compact&theme=github_dark" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravitharun&theme=github-dark&hide_border=true" alt="GitHub Streak" /> </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravitharun&layout=compact&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
 
----
 
-### 🌐 Connect With Me
+🔥 Highlight Projects
+🎯 Protifilo Website – Live: A clean portfolio to showcase my work
 
-<p align="center">
-  <a href="https://github.com/ravitharun" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tharunravi672@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🧠 AI/ML Blog – Sharing my learning journey with AI & machine learning
 
----
+🎵 React Music Player – A stylish music player with audio features
 
-<p align="center">
-  🚀 Built with ❤️ by <strong>Ravi Tharun</strong>
-</p>
+🧑‍🎓 College LMS – Full MERN LMS for students & instructors
+
+📋 Project Manager – Tracks progress, status, and budgets efficiently
+
+🧳 Job Finder App – Resume upload + listings with React frontend
+
