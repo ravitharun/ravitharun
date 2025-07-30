@@ -82,6 +82,10 @@
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravitharun&radius=16&theme=modern-lilac&area=true&hide_border=false&hide_title=false&order=5)
+
+---
+
 ### 🌟 Highlight Projects
 
 - 🚀 [Protifilo Website](https://raviprotifilo.netlify.app) – Clean React portfolio  
