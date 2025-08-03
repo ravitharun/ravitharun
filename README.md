@@ -82,7 +82,34 @@
 
 ---
 
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravitharun&radius=16&theme=modern-lilac&area=true&hide_border=false&hide_title=false&order=5)
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: ravitharun
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the output to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ## 🐍 Contribution Snake
 
 ![GitHub Snake Light](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake.svg)
