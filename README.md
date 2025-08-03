@@ -84,5 +84,15 @@
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake dark](https://github.com/ravitharun/ravitharun/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/ravitharun/ravitharun/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **tharunravi672@gmail.com**  
+- 🌐 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/ravi-tharun](https://linkedin.com/in/ravi-tharun)  
+- 💻 GitHub: [github.com/ravitharun](https://github.com/ravitharun)
