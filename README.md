@@ -84,9 +84,5 @@
 
 ### 🐍 Contribution Snake
 
-> Ensure your workflow is running and the `output` branch is created before this will work:
+![GitHub Snake dark](https://github.com/ravitharun/ravitharun/blob/output/github-snake-dark.svg)
 
-```md
-![GitHub Snake Light](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Dark](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
