@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Tharun</h1>
-<h3 align="center">Frontend Developer | MERN Stack Web Developer | React Enthusiast |  UI/UX | AI/ML And Deep Learning Learner</h3>
+<h3 align="center">Frontend Developer | MERN Stack Web Developer | React Enthusiast | UI/UX | AI/ML And Deep Learning Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravitharun&label=Profile%20Views&color=yellow&style=flat" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 ### ✨ About Me
 
-- 🎓 Final Year CSE Student from <b color="red">Bangalore<b>  
+- 🎓 Final Year CSE Student from **Bangalore**  
 - 🔭 Currently working on multiple **React + MERN** projects  
 - 🤖 Learning AI/ML for real-world applications  
 - 🎨 I enjoy crafting clean UIs & solving design-to-code challenges  
@@ -20,10 +20,10 @@
 
 ### 🔥 My Current Goals
 
-- ✅ Master full-stack development (MERN)
-- ✅ Publish blog articles on AI & web dev
-- ⏳ Contribute to open-source projects
-- 🔜 Land a frontend internship
+- ✅ Master full-stack development (MERN)  
+- ✅ Publish blog articles on AI & web dev  
+- ⏳ Contribute to open-source projects  
+- 🔜 Land a frontend internship  
 
 ---
 
@@ -54,7 +54,7 @@
 - 🎨 Figma  
 - 🔍 Postman  
 - 🗂 Git & GitHub  
-- ⚡ Netlify & Render
+- ⚡ Netlify & Render  
 
 ---
 
@@ -82,82 +82,11 @@
 
 ---
 
+### 🐍 Contribution Snake
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravitharun&radius=16&theme=modern-lilac&area=true&hide_border=false&hide_title=false&order=5)
-name: Generate Snake Contribution Grid
+> Ensure your workflow is running and the `output` branch is created before this will work:
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # runs every day
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: ravitharun
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push the output to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-## 🐍 Contribution Snake
-
+```md
 ![GitHub Snake Light](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Snake Dark](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
----
-
-### 🌟 Highlight Projects
-
-- 🚀 [Protifilo Website](https://raviprotifilo.netlify.app) – Clean React portfolio  
-- 📚 AI Learning Blog – Beginner to advanced guide  
-- 🎧 React Music Player – Simple, stylish music interface  
-- 🧑‍🏫 College LMS – Student/Faculty login & dashboard  
-- 📊 Project Manager – Visual task & budget tracking  
-- 💼 Job Finder App – Resume upload + filtered jobs
-
----
-
-### 🧠 Favorite Quote
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=I+love+to+build+cool+web+apps!;I+am+always+learning+new+tech.;Frontend+is+my+passion!;I+design+and+develop+with+React." />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://raviprotifilo.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/ravitharun" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tharunravi672@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ravitharun07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  🔥 Built with ❤️ by <strong>Ravi Tharun</strong>
-</p>
