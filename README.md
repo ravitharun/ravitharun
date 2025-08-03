@@ -83,6 +83,11 @@
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravitharun&radius=16&theme=modern-lilac&area=true&hide_border=false&hide_title=false&order=5)
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Dark](https://github.com/ravitharun/ravitharun/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
 
