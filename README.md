@@ -23,8 +23,8 @@
 - ✅ Master full-stack development (MERN)  
 - ✅ Publish blog articles on AI & web dev  
 - ⏳ Contribute to open-source projects  
-- 🔜 Land a frontend internship  
-
+- 📚 Expanding my skills in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to build intelligent, data-driven applications.  
+- 🔜 Seeking a MERN Stack internship to build real-world, hands-on experience.
 ---
 
 ### 💡 Did You Know?
@@ -32,7 +32,6 @@
 - 💡 I designed my own portfolio from scratch in React  
 - 💡 I built a full-featured project manager with budget, status, and email support  
 - 💡 I'm obsessed with minimal UI and pixel-perfect layout  
-
 ---
 
 ### 🧰 Tech Stack
@@ -54,7 +53,7 @@
 - 🎨 Figma  
 - 🔍 Postman  
 - 🗂 Git & GitHub  
-- ⚡ Netlify & Render  
+- ⚡ Netlify & Render
 
 ---
 
