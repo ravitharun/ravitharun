@@ -34,7 +34,7 @@ h3 align="center">Frontend Developer | MERN Stack Developer | React & UI/UX Enth
 - 💡 I'm obsessed with minimal UI and pixel-perfect layout  
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,firebase,postgresql" />
