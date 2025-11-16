@@ -21,9 +21,9 @@ h3 align="center">Frontend Developer | MERN Stack Developer | React & UI/UX Enth
 ### 🔥 My Current Goals
 
 - ✅ Master full-stack development (MERN)  
-- ✅ Publish blog articles on AI & web dev  
+- ✅ Publish blog articles on AI & web dev    
 - ⏳ Contribute to open-source projects  
-- 📚 Expanding my skills in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to build intelligent, data-driven applications.  
+- 📚 Expanding my skills in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to build intelligent, data-driven applications and Data analyst.  
 - 🔜 Seeking a MERN Stack internship to build real-world, hands-on experience.
 ---
 
