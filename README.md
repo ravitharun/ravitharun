@@ -22,7 +22,7 @@
 
 - ✅ Master full-stack development (MERN)  
 - ✅ Publish blog articles on AI & web dev    
-- ⏳ Contribute to open-source projects  
+- ⏳ Contribute to open-source projectS
 - 📚 Expanding my skills in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to build intelligent, data-driven applications and Data analyst.  
 - 🔜 Seeking a MERN Stack internship to build real-world, hands-on experience.
 ---
