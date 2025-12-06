@@ -33,7 +33,7 @@
 - 💡 I built a full-featured project manager with budget, status, and email support  
 - 💡 I'm obsessed with minimal UI and pixel-perfect layout  
 ---
-
+---
 ### 🧰 Tech stack
 
 <p align="center">
