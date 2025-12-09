@@ -61,14 +61,12 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ravitharun&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
+</---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
