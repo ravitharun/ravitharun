@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Tharun</h1>
+<h1 align="center">Hi 👋,I'm Ravi Tharun</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer | React & UI/UX Enthusiast | Currently Learning AI/ML, Deep Learning & Data Analytics</h3
 
 <p align="center">
