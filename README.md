@@ -18,7 +18,7 @@
 
 ---
 
-### 🔥 My Current Goals
+###🔥 My Current Goals
 
 - ✅ Master full-stack development (MERN)  
 - ✅ Publish blog articles on AI & web dev    
