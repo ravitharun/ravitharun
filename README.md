@@ -7,7 +7,7 @@
 
 ---
 
-### ✨ About Me
+### ✨ About ME
 
 - 🎓 Final Year CSE Student from **Bangalore**  2026 passout 
 - 🔭 Currently working on multiple **React + MERN** projects  
