@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋,I'm   Ravi Tharun</h1>
 <h2 align="center">Frontend Web Developer | MERN Stack Developer | React & UI/UX Enthusiast | Currently Learning  Data Analytics</h3
 
-<p align="center">
+span align="center">
   <img src="https://komarev.com/ghpvc/?username=ravitharun&label=Profile%20Views&color=yellow&style=flat" alt="Profile views " />
-</p>
+</Span>
 
 ---
 
