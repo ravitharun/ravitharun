@@ -1,43 +1,50 @@
-<h1 align="center">Hi 👋,I'm   Ravi Tharun</h1>
-<h2 align="center">Frontend Web Developer | MERN Stack Developer | React & UI/UX Enthusiast | Currently Learning  Data Analytics</h3
-
-<span align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravitharun&label=Profile%20Views&color=yellow&style=flat" alt="Profile views " />
-</Span>
-
----
-
-### ✨ About Me
-
-- 🎓 Final Year CSE Student from **Bangalore**  2026 passout 
-- 🔭 Currently working on multiple **React + MERN** projects  
-- 🤖 Learning AI/ML for real-world applications  
-- 🎨 I enjoy crafting clean UIs & solving design-to-code challenges  
-- 🌍 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
-- 📬 Email me: **tharunravi672@gmail.com**
-
----
-
-###🔥 My Current Goals
-
-- ✅ Master full-stack development (MERN)  
-- ✅ Publish blog articles on AI & web dev    
-- ⏳ Contribute to open-source projectS
-- 📚 Expanding my skills in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) to build intelligent, data-driven applications and Data analyst.  
-- 🔜 Seeking a MERN Stack internship to build real-world, hands-on experience.
----
-
-### 💡 Did You Know?
-
-- 💡 I designed my own portfolio from scratch in React  
-- 💡 I built a full-featured project manager with budget, status, and email support  
-- 💡 I'm obsessed with minimal UI and pixel-perfect layout  
----
----
-### 🧰 Tech stack
+<h1 align="center">Hi 👋, I'm Ravi Tharun</h1>
+<h3 align="center">
+Final Year CSE Student | Frontend & MERN Stack Developer | React • UI/UX • Data Analytics Learner
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs, Docker,redis,express,mongodb,python,git,github,vscode,firebase,postgresql" />
+  <img src="https://komarev.com/ghpvc/?username=ravitharun&label=Profile%20Views&color=yellow&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Final Year **CSE Student (2026)** based in **Bangalore**
+- ⚛️ Frontend & **MERN Stack Developer** with strong React expertise
+- 🧩 Built real-world projects: **LMS, Project Management App, Dashboards**
+- 🎨 UI/UX-focused developer who loves clean & minimal designs
+- 📊 Currently learning **Data Analytics** and exploring AI/ML concepts
+- 🚀 Actively seeking **Frontend / MERN Stack Internship**
+
+🌐 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
+📬 Email: **tharunravi672@gmail.com**
+
+---
+
+### 🎯 Current Goals
+
+- 🚀 Strengthen full-stack development using **MERN**
+- 📊 Apply **Data Analytics** to real-world projects
+- 🛠 Build production-ready projects for resume & portfolio
+- 🌱 Contribute to open-source projects
+- 💼 Secure a **Frontend / MERN Stack Internship**
+
+---
+
+### 💡 Highlights
+
+- 💡 Designed and developed my **portfolio from scratch using React**
+- 💡 Built a **Project Management App** with budget, status & email features
+- 💡 Strong focus on **pixel-perfect UI & UX consistency**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,firebase,postgresql,docker,redis" />
 </p>
 
 <p align="center">
@@ -46,27 +53,29 @@
 
 ---
 
-### 🛠 Developer Tools I Use
+### 🛠 Developer Tools
 
 - 💻 VS Code  
 - 🌐 Chrome DevTools  
 - 🎨 Figma  
 - 🔍 Postman  
 - 🗂 Git & GitHub  
-- ⚡ Netlify & Render
+- ⚡ Netlify & Render  
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravitharun&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
-</---
+  <img src="https://github-profile-trophy.vercel.app/?username=ravitharun&theme=onedark&no-frame=true&no-bg=true&margin-w=6" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravitharun&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -89,7 +98,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: **tharunravi672@gmail.com**  
-- 🌐 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/ravi-tharun](https://linkedin.com/in/ravi-tharun)  
+- 📧 Email: **tharunravi672@gmail.com**
+- 🌐 Portfolio: [raviprotifilo.netlify.app](https://raviprotifilo.netlify.app)
+- 🧑‍💼 LinkedIn: [linkedin.com/in/ravi-tharun](https://linkedin.com/in/ravi-tharun)
 - 💻 GitHub: [github.com/ravitharun](https://github.com/ravitharun)
