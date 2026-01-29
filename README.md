@@ -80,8 +80,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravitharun&theme=github-dark&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=ravitharun&theme=github-dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=ravitharun&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://streak-stats.demolab.com?user=ravitharun&hide_border=true" />
+  </picture>
 </p>
+
 
 ---
 
