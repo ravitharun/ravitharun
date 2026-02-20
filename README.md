@@ -157,7 +157,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZmJrb2Z3d3E4ZzVzOGk4dm
 - 🎓 Final Year **CSE Student (2026)** — Bangalore  
 - ⚛️ **Frontend & MERN Stack Developer**  
 - 🎨 UI/UX focused, clean & scalable design  
-- 🧩 Built LMS, Project Management Apps, Dashboards  
+- 🧩 Built LMS, Project Management Apps, Dashboards. 
 - 📊 Learning **Data Analytics** & exploring AI/ML  
 - 🚀 Actively seeking **Frontend / MERN Internship**
 
