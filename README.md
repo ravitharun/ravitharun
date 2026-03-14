@@ -30,15 +30,9 @@
 
 ---
 
-##  Currently Working On
+## 🚀 Currently Working On
 
-<p align="center">
- <img 
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Vi-9s2kE3foR4uscDulUfu_YQxlWsl1sFQ&s" 
-  alt="Java Programming" 
-  class="w-40 h-auto"
-/>
-</p>
+💻 Learning **Java** and **Spring Boot** to build scalable backend applications.
 
 - Advanced **React & MERN architecture**
 - Performance-optimized frontend apps
