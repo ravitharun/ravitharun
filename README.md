@@ -25,31 +25,18 @@
 - ⚛️ Frontend & **MERN Stack Developer**  
 - 🎨 UI/UX-focused, clean & scalable design mindset  
 - 🧩 Built LMS, Project Management App, Dashboards  
-- 📊 Learning **Data Analytics** & exploring AI/ML  
+- 📊 **Learning and building backend applications using Java & Spring Boot** 
+- 🚀 Actively seeking **Frontend / MERN Stack Internship**
 - 🚀 Actively seeking **Frontend / MERN Stack Internship**
 
 ---
-
-## 🧠 Currently Working On
-
-<p align="center">
-  <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Vi-9s2kE3foR4uscDulUfu_YQxlWsl1sFQ&s" 
-    width="120"
-    alt="Java Spring Boot"
-  />
-</p>
-
-<p align="center">
-  <b>Learning and building backend applications using <span style="color:#f89820;">Java</span> & <span style="color:#6db33f;">Spring Boot</span></b>
-</p>
-
 - Advanced **React & MERN architecture**
 - Backend development with **Java & Spring Boot**
 - Performance-optimized frontend apps
 - Data-driven dashboards
 - Real-world full-stack projects
 - Open-source contributions
+---
 
 ## 🏗️ Featured Projects
 
