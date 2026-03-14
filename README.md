@@ -166,7 +166,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZmJrb2Z3d3E4ZzVzOGk4dm
 ## 🧠 Currently Working On
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+  <img src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Vi-9s2kE3foR4uscDulUfu_YQxlWsl1sFQ&s)" width="420"/>
 </p>
 
 - Advanced **React & MERN architecture**
