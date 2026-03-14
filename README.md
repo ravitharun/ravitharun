@@ -51,8 +51,6 @@
 - Real-world full-stack projects
 - Open-source contributions
 
----
-
 ## 🏗️ Featured Projects
 
 <p align="center">
