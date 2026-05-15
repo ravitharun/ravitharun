@@ -1,7 +1,6 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ravi%20Tharun&fontSize=45&fontAlignY=35&desc=Frontend%20%7C%20MERN%20Stack%20Developer%20%7C%20UI%2FUX%20Focused&descAlignY=55" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Frontend+%26+MERN+Stack+Developer;React+%7C+UI%2FUX+Enthusiast;Building+Scalable+Web+Applications;Learning+Data+Analytics+%26+AI" />
 </p>
