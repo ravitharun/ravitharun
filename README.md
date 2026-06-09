@@ -45,7 +45,7 @@
 </p>
 
 ✔ **Learning Management System (MERN)**  
-✔ **Project Management Platform** (Budget, Status, Email)  
+✔ **Project Management Platform** (Like Jira)  
 ✔ **Interactive Dashboards & UI-heavy Apps**
 
 ---
