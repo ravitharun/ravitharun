@@ -30,7 +30,7 @@
 - 🚀 Actively seeking **Frontend / MERN Stack Internship**
 - 🚀 Actively seeking **Frontend / MERN Stack Internship**
 
----
+
 ## Skills & Expertise
 
 - 🚀 Advanced **React.js** and **MERN Stack** application architecture
@@ -43,7 +43,7 @@
 - 🌍 Contributing to **open-source** projects using **Git** and **GitHub**
 - 🔒 Implementing authentication, authorization, and secure API integration
 - 📱 Creating modern, mobile-first, and cross-browser compatible user interfaces
----
+
 
 ## 🏗️ Featured Projects
 <p align="center">
