@@ -85,32 +85,40 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420"/>
 </p>
 
-### 📚 Learning Management System
-- MERN Stack
-- Authentication
-- Instructor & Student Dashboards
-- Course Management
+### 📚 Learning Management System (MERN)
+
+- 🎓 Built a full-stack College Learning Management System using the **MERN Stack**
+- 🔐 Implemented **Role-Based Access Control (RBAC)** for Admin, Instructor, and Student portals
+- 📚 Developed comprehensive course management with study material uploads and subject assignment
+- 👨‍🏫 Created dedicated dashboards for Admins, Instructors, and Students with role-specific features
+- 📊 Built an attendance management system with analytics and **"Mark All Present"** functionality
+- 📝 Developed an advanced leave management workflow with approval and rejection tracking
+- 📧 Integrated **Nodemailer** for automated leave requests, approvals, and notification emails
+- ⚡ Optimized backend performance using **Redis caching** for faster API responses
+- 🔒 Secured the application with JWT authentication, protected routes, and middleware-based authorization
+- 📈 Designed a scalable REST API architecture with clean backend structure
+- 🚀 Preparing real-time notifications, attendance updates, and announcements using **Socket.io**
+- 🎨 Developed a responsive and modern user interface using **React.js** and **Tailwind CSS**
 
 ### 📋 Project Management Platform
-- Jira-inspired UI
-- Task Management
-- Email Notifications
-- Budget Tracking
-- Progress Tracking
-- Role-based Authentication
 
-### 📊 Analytics Dashboard
-- Interactive Charts
-- Dynamic Tables
-- API Integration
-- Responsive Design
+- 🚀 Built a scalable enterprise-style Project Management System inspired by Jira using the **MERN Stack**
+- 🏢 Developed multi-workspace support with **Scrum**, **Kanban**, and **Calendar** workspaces
+- 👥 Enabled real-time team collaboration using **Socket.io** for instant task updates and notifications
+- 📌 Designed an advanced task management system with priorities, custom statuses, comments, and drag-and-drop functionality
+- 🔐 Implemented secure authentication and protected APIs using **JWT** and middleware-based authorization
+- ⚡ Improved backend performance using **Redis caching** and **API rate limiting**
+- 📊 Developing an analytics dashboard for project progress, productivity, and performance insights
+- 📧 Integrated email invitations and workspace join approval workflows
+- 🎨 Built a responsive dashboard with **Tailwind CSS**, **AG Grid**, and **FullCalendar**
+- 📅 Added calendar and timeline views for efficient project planning and task tracking
+- 🏗️ Designed a scalable REST API architecture following clean backend practices
+- 🔄 Implemented activity logs to track project and task operations
+- ☁️ Configured CI/CD pipelines and preparing Docker-based deployment
+- 🌙 Added dark/light theme support with reusable and modular React components
+- 📈 Built the application with scalability in mind, supporting future migration to microservices
 
-### 💼 Job Portal
-- MERN Stack
-- Resume Upload
-- Authentication
-- Job Search
-- Profile Management
+
 
 ---
 
@@ -118,7 +126,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgresql,mysql,redis,docker,java,spring,python,git,github,vscode,postman,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,,tailwind,bootstrap,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode,postman,firebase,figma" />
 
 </p>
 
