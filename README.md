@@ -22,7 +22,7 @@
 
 <img align="right" alt="coding gif" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ0ZmJrb2Z3d3E4ZzVzOGk4dmR0ZW1qOXBxYzQ4cHk5MWs1ZXp5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Final Year **CSE Student (2026)** — Bangalore  
+- 🎓 B.Tech CSE Graduate (2026) — Bangalore 
 - ⚛️ Frontend & **MERN Stack Developer**  
 - 🎨 UI/UX-focused, clean & scalable design mindset  
 - 🧩 Built LMS, Project Management App, Dashboards  
@@ -31,12 +31,18 @@
 - 🚀 Actively seeking **Frontend / MERN Stack Internship**
 
 ---
-- Advanced **React & MERN architecture**
-- Backend development with **Java & Spring Boot**
-- Performance-optimized frontend apps
-- Data-driven dashboards
-- Real-world full-stack projects
-- Open-source contributions
+## Skills & Expertise
+
+- 🚀 Advanced **React.js** and **MERN Stack** application architecture
+- ⚙️ Backend development using **Node.js**, **Express.js**, and **RESTful APIs**
+- 🎨 Building responsive, scalable, and performance-optimized frontend applications
+- 📊 Developing interactive **data-driven dashboards** and analytics interfaces
+- ⚡ Implementing **Redis** caching to improve application performance
+- 🐳 Containerizing applications with **Docker** for consistent development and deployment
+- 💻 Designing and building real-world **full-stack web applications**
+- 🌍 Contributing to **open-source** projects using **Git** and **GitHub**
+- 🔒 Implementing authentication, authorization, and secure API integration
+- 📱 Creating modern, mobile-first, and cross-browser compatible user interfaces
 ---
 
 ## 🏗️ Featured Projects
