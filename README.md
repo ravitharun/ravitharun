@@ -67,13 +67,9 @@
 ---
 
 # 🚀 Currently Learning
-
-- 📦 Advanced React Architecture
-- ⚙️ Node.js & Express.js Best Practices
 - ☕ Java & Spring Boot
 - 🐳 Docker & Containerization
 - ⚡ Redis Caching
-- 📊 Data Analytics
 - 🤖 AI & Machine Learning Fundamentals
 - ☁️ Deployment & CI/CD
 
